@@ -12,6 +12,12 @@ h2 {
     font-size: 1.2rem;
 }
 
+h3 {
+    font: red;
+    background-color: wheat;
+    border: 1px solid rebeccapurple;
+}
+
 p {
     background-color: coral;
     color: darkred;
